@@ -15,4 +15,4 @@ A check master bash script(check_master.sh)(checkmaster_pipeline.sh) lists all m
 
 #task four
 
-Adding installation of docker-compose and then install wordpress docker-compose
+In addition to task one Adding installation of docker-compose and then install wordpress docker-compose
