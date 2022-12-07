@@ -15,3 +15,6 @@ In addition to task one Adding installation of docker-compose and then install w
 
 # task 5
 write a bash script to Check service up & running using ip address and port number and if the service is not running, run docker-compose up to run it.
+
+# task 6
+write a bash script to get the process id from process name and use this process id to kill the process.
