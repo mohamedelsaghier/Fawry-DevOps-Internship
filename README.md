@@ -21,3 +21,6 @@ write a bash script to get the process id from process name and use this process
 
 # task 7
 write a script to get password or any text from user and use hashlib to hash the entered text.
+
+# task 8
+write a bash script that read a log file and exract data from it then pass it to a text file.
