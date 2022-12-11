@@ -24,3 +24,6 @@ write a script to get password or any text from user and use hashlib to hash the
 
 # task 8
 write a bash script that read a log file and exract data from it then pass it to a text file.
+
+# task 9
+write a bash script to pull a git repo, use Dockerfile in cloned repo to build a docker image with a tage of today date and finally push the image to remote docker registry.
