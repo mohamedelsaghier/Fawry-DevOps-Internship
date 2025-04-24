@@ -5,7 +5,7 @@ with open('pod.yaml','r') as read_file:
     print(pod_info)
     print(1 * '\n')
     
-    pod_info['spec']['containers'][0]['env'][0]['value']=['postrres://prod:5432']
+    pod_info['spec']['containers'][0]['env'][0]['value']=['postgres://prod:5432']
     print(pod_info)
 
 with open('output.yaml','w') as dump_file:
